@@ -12,6 +12,9 @@ An IoT-based smart security and home automation project built with **NodeMCU ESP
 ✅ **Automatic Door Lock** - Simulated door open/close based on motion  
 ✅ **Web-based Monitoring** - View all sensor data from any browser  
 
+
+
+
 ## 🔧 Hardware Components
 
 | Component | Quantity | Purpose |
